@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashish-Singh9
 - 👀 I’m interested in ... Tech
 - 🌱 I’m currently learning ... Full Stack Development
-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... via linkedin https://www.linkedin.com/in/ashish-kumar-21ba7b192
 
 <!---
