@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Ashish-Singh9/Ashish-Singh9/main/header.png" alt="bootstrap" width="100" height="60"/>
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
